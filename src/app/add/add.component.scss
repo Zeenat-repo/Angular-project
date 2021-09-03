@@ -1,14 +1,42 @@
+* {
+    box-sizing: border-box;
+  }
+//   .container {
+//     border-radius: 5px;
+//     background-color: #f2f2f2;
+//     padding: 20px;
+
+//   }
+
 form-label{
  float: left;
+ 
 
 }
+// .row::after{
+//     content: "";
+//     display: table;
+
+// }
 input{
-    text-align: center;
+    text-align: left;
+        margin-left: 20px;
+        display: table-column;
+      
 }
 form{
     width: 100%;   
     margin-top: 20px;
 }
-labels{
-    text-align: center;
-}
+// col-25{
+//     float: left;
+//     width: 75%;
+// margin-top: 10px;
+
+
+// }
+// col-75{
+//     float: left;
+//     width: 75%;
+// margin-top: 10px;
+// }
