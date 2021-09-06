@@ -1,0 +1,97 @@
+{
+  "Columns": [
+    {
+      "column": "salary"
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "firstName": "Amit",
+      "lastName": "Dutta",
+      "email": "amit@gmail.com",
+      "mobile": "1234567890",
+      "salary": "10000"
+    },
+    {
+      "id": 2,
+      "firstName": "Zeenat",
+      "lastName": "Pervin",
+      "email": "zeenat@gmail.com",
+      "mobile": "9875467890",
+      "salary": "30000"
+    },
+    {
+      "id": 3,
+      "firstName": "John",
+      "lastName": "Paul",
+      "email": "john@gmail.com",
+      "mobile": "8734567890",
+      "salary": "20000"
+    },
+    {
+      "id": 4,
+      "firstName": "Rahul",
+      "lastName": "Raj",
+      "email": "rahul@gmail.com",
+      "mobile": "1234554321",
+      "salary": "50000"
+    },
+    {
+      "id": 5,
+      "firstName": "Daniel",
+      "lastName": "radcliffe",
+      "email": "daniel@gmail.com",
+      "mobile": "8098767890",
+      "salary": "80000"
+    },
+    {
+      "id": 6,
+      "firstName": "Emma",
+      "lastName": "Watson",
+      "email": "emma@gmail.com",
+      "mobile": "9855667890",
+      "salary": "60000"
+    },
+    {
+      "firstName": "Zeea",
+      "lastName": "Abc",
+      "email": "zee@gmail.com",
+      "mobile": "987656789",
+      "salary": "45000",
+      "id": 7
+    },
+    {
+      "firstName": "Zeenia",
+      "lastName": "Khan",
+      "email": "zeenia@gmail.com",
+      "mobile": "2345432345",
+      "salary": "55000",
+      "id": 8
+    },
+    {
+      "firstName": "qqq",
+      "lastName": "ee",
+      "email": "qq@gmail.com",
+      "mobile": "76888888",
+      "salary": "202020",
+      "id": 9
+    },
+    {
+      "firstName": "Emili",
+      "lastName": "Rodger",
+      "email": "emili@gmail.com",
+      "mobile": "7658322222",
+      "salary": "25000",
+      "id": 10
+    },
+    {
+      "firstName": "Johny",
+      "lastName": "Jolly",
+      "email": "johny@gmail.com",
+      "mobile": "7688987654",
+      "salary": "35000",
+      "id": 11
+    }
+  ]
+}
